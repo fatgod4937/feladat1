@@ -2,3 +2,36 @@ body{
 background-color:#FFEFD5 ;
 color: #8b4513;
 }
+table{
+width:300px;
+border:solid,1px;
+float:center;
+}
+#tartalom{
+    float:right;
+    width:645px;
+    padding:40px;
+    padding-top:20px;   
+}
+#jobb{
+width:120px;
+}
+#fejlec{
+width:100%;
+padding:5px;
+background-image:url(szines.jpg)
+}
+#menu
+{
+    padding-top:20px;
+    width:250px;
+    float:left;
+}
+#fokeret
+{
+    width:1000px;
+    margin:auto;
+}
+li{
+    list-style-image:url(chili-pepper-icon.gif)
+}
