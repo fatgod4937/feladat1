@@ -4,8 +4,8 @@ color: #8b4513;
 }
 table{
 width:300px;
-border:solid,1px;
-float:center;
+margin:auto;
+border-collapse:collapse;
 }
 #tartalom{
     float:right;
@@ -15,6 +15,7 @@ float:center;
 }
 #jobb{
 width:120px;
+text-align:center;
 }
 #fejlec{
 width:100%;
@@ -32,6 +33,19 @@ background-image:url(szines.jpg)
     width:1000px;
     margin:auto;
 }
+td{
+    border:1px solid green;
+    
+}
 li{
+    border:2px solid lightblue;
+    padding:5px;
+    margin:10px;
+    background-color:white;
     list-style-image:url(chili-pepper-icon.gif)
+}
+a{
+    text-decoration:none;
+    color:black;
+    font-weight:bold;
 }
