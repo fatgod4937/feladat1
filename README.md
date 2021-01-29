@@ -1,0 +1,2 @@
+# feladat1
+paprika
